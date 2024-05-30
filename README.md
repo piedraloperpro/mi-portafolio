@@ -2,7 +2,7 @@
 
 Este es un portafolio creado con HTML, CSS.
 
-##Autor - 
+##Autor 
 **Johan Piedra**
 
 *[Linkedin](https://www.linkedin.com/in/johan-piedra-olivares-3024202a1)
